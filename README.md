@@ -1,7 +1,8 @@
 # Tukutuh-TA
-<br>Tugas Akhir Kelompok A22.2018.02689 - A22.2018.02712<br>
+<br>Tugas Akhir Kelompok A22.2018.02689 - A22.2018.02712 <br>
+<br> Fadhil Hanif R - Arief Maulana R <br>
 
-<br>file pertama adalah front end dan file kedua adalah back end<br>
+<br>file pertama adalah front end dan file kedua adalah back end <br>
 
 <br> back end <br>
 <br> http://localhost/tes/EcommerceTA/ <br>
